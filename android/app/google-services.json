@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "768793464943",
+    "project_id": "nachhilfe-f4db5",
+    "storage_bucket": "nachhilfe-f4db5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768793464943:android:97701f635785ee945b3d9a",
+        "android_client_info": {
+          "package_name": "com.geo.nachhilfe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768793464943-lrkk3b8i5igu7fv2jbkdv4oh0s4062i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkGxpRiswOYttW0q0cm_SAVKlo9FtUknI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768793464943-lrkk3b8i5igu7fv2jbkdv4oh0s4062i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
